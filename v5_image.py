@@ -1,5 +1,5 @@
 
-
+#fhjjhfjhdfjh
 from pygame import *
 from random import randint
 from time import time as timer
@@ -220,4 +220,5 @@ while run:
 
         display.update()
         clock.tick(30)
+
 
